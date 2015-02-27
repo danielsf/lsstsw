@@ -73,6 +73,7 @@ obs_sdss: https://github.com/lsst/obs_sdss.git
 activemqcpp: https://github.com/lsst/activemqcpp.git
 pex_harness: https://github.com/lsst/pex_harness.git
 git: https://github.com/lsst/git.git
+sncosmo: https://github.com/lsst/sncosmo.git
 sims_catUtils: https://stash.lsstcorp.org/scm/sim/sims_catUtils.git
 qserv_testdata: git://git.lsstcorp.org/LSST/DMS/testdata/qserv_testdata.git
 eigen: https://github.com/lsst/eigen.git
